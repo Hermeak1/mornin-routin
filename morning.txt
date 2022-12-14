@@ -1,0 +1,12 @@
+
+mornin' routine
+
+// make new repo'
+
+// commit twice a day
+
+// delete local dir
+
+// clone again
+
+// commit again
